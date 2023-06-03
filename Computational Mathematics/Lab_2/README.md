@@ -1,1 +1,3 @@
 # <strong> <span style="color:blue"> Лабораторная работа 2.</strong> <font size="5" > _Системы нелинейных уравнений_   
+```diff
+- text in red
