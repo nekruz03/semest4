@@ -1,0 +1,3 @@
+/Users/nekruz/Desktop/cm4/comp-math4/cmake-build-debug/CMakeFiles/comp_math4.dir
+/Users/nekruz/Desktop/cm4/comp-math4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nekruz/Desktop/cm4/comp-math4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
